@@ -1,0 +1,15 @@
+body {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.mystery {
+  background-color: blue;
+  color: rgb(228, 219, 219);
+}
+
+.glow-up {
+  background-color: red;
+  font-size: 16pt;
+  border-radius: 5px;
+}
