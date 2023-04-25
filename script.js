@@ -1,5 +1,3 @@
-// this keyword demo - CSE 154
-
 "use strict";
 (function() {
 
@@ -12,7 +10,6 @@
   function addClass() {
     id("text").classList.add("mystery");
 
-    // uncomment when ready
      console.log(this);
      this.classList.add("glow-up");
   }
